@@ -1,5 +1,8 @@
 # My Engineering Journal
-# my engineering Learning Journal
+# My Engineering Learning Journal
+# What am I leaning
 - Git and Github
 - python programming
--Aeronautical engineering
+- Aeronautical engineering
+- Learning Version control
+- Learn Verison control
