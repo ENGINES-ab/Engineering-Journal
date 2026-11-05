@@ -8,3 +8,4 @@
 - Learn Verison control
 
 - Learning branches
+- learn Git merge and branch management
