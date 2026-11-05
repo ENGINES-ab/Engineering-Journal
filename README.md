@@ -9,3 +9,6 @@
 
 - Learning branches
 - learn Git merge and branch management
+
+
+# My current focus is Aeronautical Engineering
