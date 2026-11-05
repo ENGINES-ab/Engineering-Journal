@@ -13,4 +13,3 @@
 
 # My current focus is Aeronautical Engineering
 # My current focus is Aviation Engineering
-Learning revert commit
