@@ -13,3 +13,10 @@
 
 # My current focus is Aeronautical Engineering
 # My current focus is Aviation Engineering
+
+Love
+-Learning Git Stash - This is unfinished work 
+# Aeronatical topics 
+- Aerodynamics
+- Propusion Systems
+- Air transportation
