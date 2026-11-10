@@ -13,10 +13,20 @@
 
 # My current focus is Aeronautical Engineering
 # My current focus is Aviation Engineering
+## Bigfish Contributions
+
+### Areas of Engineering Interest
+- Aircraft Design
+- Flight Mechanics
+- Aviation Technology
+- Aerospace Materials
+
+## ENGINES-ab Contributions
 
 Love
--Learning Git Stash - This is unfinished work 
-# Aeronatical topics 
+- Learning Git Stash - This is unfinished work
+
+## Aeronautical Topics
 - Aerodynamics
-- Propusion Systems
+- Propulsion Systems
 - Air transportation
